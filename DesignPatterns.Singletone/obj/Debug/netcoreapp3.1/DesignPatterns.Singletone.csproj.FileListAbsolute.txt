@@ -1,0 +1,13 @@
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\bin\Debug\netcoreapp3.1\DesignPatterns.Singletone.exe
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\bin\Debug\netcoreapp3.1\DesignPatterns.Singletone.deps.json
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\bin\Debug\netcoreapp3.1\DesignPatterns.Singletone.runtimeconfig.json
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\bin\Debug\netcoreapp3.1\DesignPatterns.Singletone.runtimeconfig.dev.json
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\bin\Debug\netcoreapp3.1\DesignPatterns.Singletone.dll
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\bin\Debug\netcoreapp3.1\DesignPatterns.Singletone.pdb
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\obj\Debug\netcoreapp3.1\DesignPatterns.Singletone.csprojAssemblyReference.cache
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\obj\Debug\netcoreapp3.1\DesignPatterns.Singletone.AssemblyInfoInputs.cache
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\obj\Debug\netcoreapp3.1\DesignPatterns.Singletone.AssemblyInfo.cs
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\obj\Debug\netcoreapp3.1\DesignPatterns.Singletone.csproj.CoreCompileInputs.cache
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\obj\Debug\netcoreapp3.1\DesignPatterns.Singletone.dll
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\obj\Debug\netcoreapp3.1\DesignPatterns.Singletone.pdb
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.Singletone\obj\Debug\netcoreapp3.1\DesignPatterns.Singletone.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.exe
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.deps.json
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.runtimeconfig.json
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.runtimeconfig.dev.json
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.dll
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.pdb
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.AssemblyInfo.cs
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.dll
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.pdb
+C:\Users\Pouya\Source\Repos\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\netcoreapp3.1\DesignPatterns.AbstractFactory.genruntimeconfig.cache
